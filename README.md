@@ -5,6 +5,7 @@ This repository presents a hospital control application where you have the optio
 - Consulting rooms.
 - Appointments.
 - Medications.
+
 Each of these options can be added, modified, deleted and displayed. 
 
 ![Screenshot](Screenshot.jpg)
